@@ -1,0 +1,15 @@
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/LocalChat
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/LocalChat.deps.json
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/LocalChat.runtimeconfig.json
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/LocalChat.dll
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/ref/LocalChat.dll
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/bin/Debug/net6.0/LocalChat.pdb
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.csproj.AssemblyReference.cache
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.AssemblyInfoInputs.cache
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.AssemblyInfo.cs
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.csproj.CoreCompileInputs.cache
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.dll
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/ref/LocalChat.dll
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.pdb
+/home/dmitriy/RiderProjects/LocalChat/LocalChat/obj/Debug/net6.0/LocalChat.genruntimeconfig.cache

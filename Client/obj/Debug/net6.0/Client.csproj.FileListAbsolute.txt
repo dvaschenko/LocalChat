@@ -1,0 +1,15 @@
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/Client
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/Client.deps.json
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/Client.dll
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/ref/Client.dll
+/home/dmitriy/RiderProjects/LocalChat/Client/bin/Debug/net6.0/Client.pdb
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.dll
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/ref/Client.dll
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.pdb
+/home/dmitriy/RiderProjects/LocalChat/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
